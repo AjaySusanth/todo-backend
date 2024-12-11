@@ -88,7 +88,7 @@ API Endpoints
 
 1.  **Sign Up**
 
-    -   **POST** `/auth/signup`
+    -   **POST** `/auth/signin`
 
     -   **Request Body**:
 
